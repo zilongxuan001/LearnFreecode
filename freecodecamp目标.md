@@ -1,4 +1,10 @@
 学完freecodecamp，你可以得到什么：
+ 
+# 技能
+![image](https://user-images.githubusercontent.com/19257507/37807215-45748ef2-2e7f-11e8-8169-5f53d5736a5e.png)
+
+
+# 证书
 
 ![image](https://user-images.githubusercontent.com/19257507/37806895-74b94100-2e7d-11e8-9277-9290bebd57d4.png)
 
@@ -19,6 +25,8 @@
 方法： React + SaaS + D3.js
 
 时间：400个小时
+
+![image](https://user-images.githubusercontent.com/19257507/37807244-69f22b7c-2e7f-11e8-9262-8e7a6603c650.png)
 
 ## 后端开发证书
 
