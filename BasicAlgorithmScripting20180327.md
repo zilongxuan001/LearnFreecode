@@ -8,3 +8,5 @@
 [javascript去除字符串中所有标点符号和提取纯文本的正则表达式](http://www.jb51.net/article/50779.htm)
 
 [详解JS正则replace的使用方法](http://www.jb51.net/article/80544.htm)
+
+[Javascript获取数组中的最大值和最小值的方法汇总](http://www.jb51.net/article/77331.htm)
