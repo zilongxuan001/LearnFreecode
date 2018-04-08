@@ -1,3 +1,11 @@
+//添加 https://code.jquery.com/jquery-2.2.4.min.js
+
+//添加 https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js
+
+//添加 https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js
+
+
+
 $(document).ready(function() {
  //定义一个数组，每个数组由一个字典组成，包含两个键对值。属性为quotes和author。 
   var quotes = [{
