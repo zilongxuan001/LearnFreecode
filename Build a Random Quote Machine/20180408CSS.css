@@ -1,0 +1,43 @@
+/*定义全局的背景色和内边距*/
+body {
+  background: #aaaaaa;
+  padding-top: 100px;
+}
+
+/*定义引文，出处，图标和按钮的背景色，边框和外边距*/
+#quote-well {
+  background-color: #16a085;
+  border: 0;
+  margin-top: 50px;
+  margin-bottom:50px;
+}
+
+/*定义图标和按钮的外边距*/
+#quote-btn,
+#baidu-btn {
+  margin-top: 40px;
+  margin-bottom:5px;
+}
+
+/*定义引文的字体*/
+#quote {
+  font-family: 'Allan', Helvetica, Arial, sans-serif;
+}
+
+/*定义出处、按钮和图标的字体*/
+#quote-author,
+#quote-btn,
+#baidu-btn{
+  font-family: 'Cardo', Georgia, Times, serif;
+}
+
+/*定义出处的字体大小*/
+h5 {
+  font-size: 16px;
+}
+
+/*定义代码作者的字体和字体颜色*/
+.white-font{
+  font-family: 'Cardo', Georgia, Times, serif;
+  color: #dda;
+}
