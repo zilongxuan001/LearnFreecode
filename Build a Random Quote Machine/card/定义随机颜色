@@ -1,0 +1,37 @@
+## 功能
+
+点击按钮，HTML的body背景出现随机颜色。
+
+## 代码
+```
+$(document).ready(function(){
+
+//建立颜色库。定义bodyColors数组，每个元素为一颜色值 
+  var bodyColors = ["#888","#5af","#1f1","#88f"];
+
+//设置按钮功能。选择id:quote-btn，设置“点击”功能
+  $('#quote-btn').click(function(){
+
+ //设置随机数。将数组bodyColors的长度作为数值，取0到长度范围内的随机数，赋值给vlaue。
+    var value= Math.floor(Math.random() * bodyColors.length);
+    
+//设置随机颜色值。将bodyColors的元素随机赋值给randomColor
+    var randomColor = bodyColors[value];
+  
+//添加随机颜色到body。选择body，添加随机颜色属性。
+    $('body').css('background-color',randomColor);
+    
+  });
+  
+})
+```
+
+效果
+
+
+![default](https://user-images.githubusercontent.com/19257507/38599139-c5bdfea6-3d91-11e8-9efa-ffe2959fa4eb.gif)
+
+
+同理，可以显示随机图片，随机文字。
+
+来源：https://codepen.io/zilongxuan001/pen/geQEOa
