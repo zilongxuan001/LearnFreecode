@@ -28,5 +28,21 @@
 
 比如home里有html5-and-css，是一级标题，那么你就可以在侧边栏页面里的，`home页面链接+#html5-and-css`。
 
-(https://github.com/Rafase282/My-FreeCodeCamp-Code/wiki#html5-and-css)
+形式如： ` [hhml5-and-css](https://github.com/Rafase282/My-FreeCodeCamp-Code/wiki#html5-and-css)`
 
+# 页脚
+
+页脚是`_Footer`,只有一个，不需要新命名。
+
+你可以用加上首页的返回链接。
+
+# 其他
+
+可以使用Typora编辑好页面，在复制到wiki里。毕竟Typora的编辑更人性化。
+
+记住，有链接，才不会遗忘，才不会变成遗忘的孤岛。
+
+##### 参考资料
+[wiki使用](https://lpd-ios.github.io/2017/07/11/GitHub-Wiki-Introduction/)
+[markdown语法](http://wowubuntu.com/markdown/)
+[wiki模板参考Rafael Rodriguez大神的FCC学习记录](https://github.com/Rafase282/My-FreeCodeCamp-Code/wiki)
