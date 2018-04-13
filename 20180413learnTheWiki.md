@@ -24,4 +24,9 @@
 
 侧边栏相当于目录的目录，home里可以放最详细的目录和链接，比如会放一级，二级和三级目录。而侧边栏你可以只放一级和二级目录，直接和home的行内文字进行链接。
 
+### 如何连接wiki里home页面的文字
+
+比如home里有html5-and-css，是一级标题，那么你就可以在侧边栏页面里的，`home页面链接+#html5-and-css`。
+
+(https://github.com/Rafase282/My-FreeCodeCamp-Code/wiki#html5-and-css)
 
