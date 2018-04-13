@@ -42,6 +42,9 @@
 
 记住，有链接，才不会遗忘，才不会变成遗忘的孤岛。
 
+文件名要用英文命名，参考[GitHub 协作五大业余姿势](http://mp.weixin.qq.com/s/qvwmrlmcoQCwVbnugcWyhQ)
+
+
 我的第一个[wiki](https://github.com/zilongxuan001/LearnFreecode/wiki)
 
 ##### 参考资料
