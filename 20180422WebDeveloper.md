@@ -11,6 +11,6 @@ github的地址[developer-roadmap](https://github.com/kamranahmedse/developer-ro
 
 >  +  Learn the basics and how to write semantic HTML
         
-> + Understand how to divide page into sections and to structure the [DOM](http://www.w3school.com.cn/htmldom/index.asp) properly
+>  + Understand how to divide page into sections and to structure the [DOM](http://www.w3school.com.cn/htmldom/index.asp) properly
         
-> + Task Make at least 5 HTML pages – focus on structure, don't worry about the beauty yet
+>  + Task Make at least 5 HTML pages – focus on structure, don't worry about the beauty yet
