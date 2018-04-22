@@ -9,11 +9,11 @@ github的地址[developer-roadmap](https://github.com/kamranahmedse/developer-ro
 >First thing that you would want to do is learn the basics which includes learning the basics of HTML, CSS and some familiarization with JavaScript syntax.
 >* Learn the basics of HTML
 >
->  -  Learn the basics and how to write semantic HTML
+>   -  Learn the basics and how to write semantic HTML
 >        
->  - Understand how to divide page into sections and to structure the [DOM](http://www.w3school.com.cn/htmldom/index.asp) properly
+>   - Understand how to divide page into sections and to structure the [DOM](http://www.w3school.com.cn/htmldom/index.asp) properly
 >        
->  - Task Make at least 5 HTML pages – focus on structure, don't worry about the beauty yet
+>   - Task Make at least 5 HTML pages – focus on structure, don't worry about the beauty yet
 
 ## (1)HTML语义化
 参考文章：[理解HTML语义化](http://www.cnblogs.com/freeyiyi1993/p/3615179.html)
