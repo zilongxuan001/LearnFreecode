@@ -17,4 +17,9 @@ github的地址[developer-roadmap](https://github.com/kamranahmedse/developer-ro
 
 ## (1)HTML语义化
 参考文章：[理解HTML语义化](http://www.cnblogs.com/freeyiyi1993/p/3615179.html)
+
 [HTML标签语义化总结](http://www.cnblogs.com/StrongerSY/p/5467239.html)
+
+[关于语义化 HTML 以及前端架构的一点思考 ](https://www.oschina.net/translate/about-html-semantics-front-end-architecture)
+
+[About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
