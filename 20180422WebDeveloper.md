@@ -29,3 +29,5 @@ github的地址[developer-roadmap](https://github.com/kamranahmedse/developer-ro
 [关于语义化 HTML 以及前端架构的一点思考 ](https://www.oschina.net/translate/about-html-semantics-front-end-architecture)
 
 [About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
+
+[HTML Design Principles](https://www.w3.org/TR/html-design-principles/#pave-the-cowpaths)
