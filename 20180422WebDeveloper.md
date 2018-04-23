@@ -16,7 +16,10 @@ github的地址[developer-roadmap](https://github.com/kamranahmedse/developer-ro
 >   - Task Make at least 5 HTML pages – focus on structure, don't worry about the beauty yet
 
 ## (1)HTML语义化
-参考文章：[理解HTML语义化](http://www.cnblogs.com/freeyiyi1993/p/3615179.html)
+参考文章：
+[HTML5语义化标签](http://caibaojian.com/html5/ele.html)
+
+[理解HTML语义化](http://www.cnblogs.com/freeyiyi1993/p/3615179.html)
 
 [HTML 5的革新——语义化标签(一)](http://www.html5jscss.com/html5-semantics-section.html)
 
