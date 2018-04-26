@@ -47,6 +47,8 @@
 
 我的第一个[wiki](https://github.com/zilongxuan001/LearnFreecode/wiki)
 
+[issue与wiki的关联]()
+
 ##### 参考资料
 
 [wiki使用](https://lpd-ios.github.io/2017/07/11/GitHub-Wiki-Introduction/)
