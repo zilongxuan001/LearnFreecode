@@ -47,7 +47,7 @@
 
 我的第一个[wiki](https://github.com/zilongxuan001/LearnFreecode/wiki)
 
-[issue与wiki的关联]()
+[issue与wiki的关联](https://github.com/zilongxuan001/LearnFreecode/blob/master/20180227summaryOfExercise.md)
 
 ##### 参考资料
 
